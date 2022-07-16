@@ -6,3 +6,4 @@ streamlit
 matplotlib
 pandas
 plotly
+opencv-python
