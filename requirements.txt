@@ -1,0 +1,8 @@
+japanmap
+openpyxl
+plotly
+datetime
+streamlit
+matplotlib
+pandas
+plotly
