@@ -7,3 +7,4 @@ matplotlib
 pandas
 plotly
 opencv-python
+opencv-contrib-python
