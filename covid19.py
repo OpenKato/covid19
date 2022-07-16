@@ -3,13 +3,6 @@
 # pip install openpyxl
 # pip install plotly
 
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/prekatou/covid19
-git push origin master
-
-
 # ライブラリの読み込み
 from datetime import datetime as dt
 import streamlit as st
