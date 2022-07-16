@@ -7,4 +7,3 @@ matplotlib
 pandas
 plotly
 opencv-python
-libgl1-mesa-dev
