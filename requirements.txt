@@ -7,3 +7,12 @@ matplotlib
 pandas
 plotly
 opencv-python
+
+streamlit
+matplotlib
+pandas
+plotly
+japanmap
+opencv-python-headless
+openpyxl
+
